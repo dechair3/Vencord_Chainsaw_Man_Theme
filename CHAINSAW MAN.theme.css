@@ -29,7 +29,7 @@
   /*Some important settings that will change the majority of your client.*/
   --theme-background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.5M9JoOxKoanu__6q1lac7AHaEK%26pid%3DApi&f=1&ipt=6c897f235ad3b6c2b678821f5ac8ecd3ed733c66cbdbd8e0ca5467c3b934546e&ipo=images); /*The main image over your whole Discord client*/
   --main-theme-color: #; /*The default theme color*/
-  --theme-transparency: rgba(0, 0, 0, 0.5); /*The mask that applies over the background*/
+  --theme-transparency: rgba(0, 0, 0, 0.7); /*The mask that applies over the background*/
   --home-icon-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F32%2F2a%2F25%2F322a251a096aa1414e546882f651a033.png&f=1&nofb=1&ipt=352c97c63f61c6368f6ef5da8a2c900b490f63c45d41ee81efa44b1581b92b55&ipo=images); /*Your friends icon*/
   --home-icon-image-position: center center;
   --home-icon-image-zoom: 100%;
